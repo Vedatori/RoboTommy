@@ -11,7 +11,6 @@
 #include "StateVector.h"
 #include "DifferentialChassis.h"
 #include "DisplayClass.h"
-#include "Strings.h"
 #include "EEPROM_data.h"
 
 ESP8266WebServer server(80);
@@ -23,7 +22,6 @@ const char deviceName[] = "RoboTommy";
 const char password[] = "adminadmin";
 char passwordHash[33];
 char cookieHash[42];
-
 
 const uint8_t I2C_ADDRESS_NANO = 4;
 

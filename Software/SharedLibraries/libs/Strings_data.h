@@ -1,8 +1,8 @@
-#ifndef _STRINGS_H_
-#define _STRINGS_H_
+#ifndef _STRINGS_DATA_H_
+#define _STRINGS_DATA_H_
 
-#include <String.h>
 #include <Arduino.h>
+#include <String.h>
 
 static const String rootNodeTxt = "Root";
 
@@ -43,4 +43,4 @@ static const unsigned char startDisplay [] PROGMEM = {
   0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 
 };
 
-#endif /*_STRINGS_H_*/
+#endif /*_STRINGS_DATA_H_*/

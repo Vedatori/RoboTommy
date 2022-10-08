@@ -1,4 +1,4 @@
-#Multifunkční robotická platforma RoboTommy
+# Multifunkční robotická platforma RoboTommy
 RoboTommy je open source projekt zamýšlený jako univerzální platforma pro začátečníky v robotice, elektronice a programování. Při návrhu byl kladen důraz na široké možnosti robota v kombinaci s nízkými nároky na kutila.
 
 RoboTommy byl vytvořen jako projekt pro robotické lekce a letní tábory v SVČ Lužánky v Brně. Autory jsou Martin Ptáček, Petr Vávra, Martin Coufal a Marek Coufal.
